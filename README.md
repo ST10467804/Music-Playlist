@@ -41,10 +41,11 @@ Code of screen 2
 
 
 Referance list
-- https://www.bing.com/ck/a?!&&p=4dbd5ebb6be6e2f2354f5e5248e93c743bc72f4812a96c38bcc2938b17d4b5d1JmltdHM9MTc1MDI5MTIwMA&ptn=3&ver=2&hsh=4&fclid=0779242d-fbdb-6975-16ee-31e6fa1b68ba&psq=w3schools&u=a1aHR0cHM6Ly93d3cudzNzY2hvb2xzLmNvbS8&ntb=1
-- https://www.bing.com/ck/a?!&&p=5bb9ddf60482eb742d6c3c981c48317ac7b242a60b975492ca8f12fe9c306d06JmltdHM9MTc1MDI5MTIwMA&ptn=3&ver=2&hsh=4&fclid=0779242d-fbdb-6975-16ee-31e6fa1b68ba&psq=Romman+sabbir&u=a1aHR0cHM6Ly9yb21tYW5zYWJiaXIuY29tLw&ntb=1
-- https://www.bing.com/ck/a?!&&p=9d3a584b2acc16e48ce94fb7cf2b370cb2d95dd3b4722a091d276da88f66553eJmltdHM9MTc1MDI5MTIwMA&ptn=3&ver=2&hsh=4&fclid=0779242d-fbdb-6975-16ee-31e6fa1b68ba&psq=Native+mobile+bites&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vYy9OYXRpdmVNb2JpbGVCaXRz&ntb=1
-- https://advtechonline.sharepoint.com/:w:/r/sites/TertiaryStudents/IIE%20Student%20Materials/New%20Student%20Materials%20CAT/IMAD5112/2025/Term%201/IMAD5112_MM.docx?d=wa1ff62f08e1a47bc99bdca07ae24427d&csf=1&web=1&e=URIfie
+- (W3schools.1999-2025) https://www.bing.com/ck/a?!&&p=4dbd5ebb6be6e2f2354f5e5248e93c743bc72f4812a96c38bcc2938b17d4b5d1JmltdHM9MTc1MDI5MTIwMA&ptn=3&ver=2&hsh=4&fclid=0779242d-fbdb-6975-16ee-31e6fa1b68ba&psq=w3schools&u=a1aHR0cHM6Ly93d3cudzNzY2hvb2xzLmNvbS8&ntb=1
+- (Romman Sabbir.2023) https://www.bing.com/ck/a?!&&p=5bb9ddf60482eb742d6c3c981c48317ac7b242a60b975492ca8f12fe9c306d06JmltdHM9MTc1MDI5MTIwMA&ptn=3&ver=2&hsh=4&fclid=0779242d-fbdb-6975-16ee-31e6fa1b68ba&psq=Romman+sabbir&u=a1aHR0cHM6Ly9yb21tYW5zYWJiaXIuY29tLw&ntb=1
+- (Native Mobile bites.2023) https://www.bing.com/ck/a?!&&p=9d3a584b2acc16e48ce94fb7cf2b370cb2d95dd3b4722a091d276da88f66553eJmltdHM9MTc1MDI5MTIwMA&ptn=3&ver=2&hsh=4&fclid=0779242d-fbdb-6975-16ee-31e6fa1b68ba&psq=Native+mobile+bites&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vYy9OYXRpdmVNb2JpbGVCaXRz&ntb=1
+-(IEE moduale manual.2025) https://advtechonline.sharepoint.com/:w:/r/sites/TertiaryStudents/IIE%20Student%20Materials/New%20Student%20Materials%20CAT/IMAD5112/2025/Term%201/IMAD5112_MM.docx?d=wa1ff62f08e1a47bc99bdca07ae24427d&csf=1&web=1&e=URIfie
+
 
 
 
