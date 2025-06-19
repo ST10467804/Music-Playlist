@@ -25,7 +25,7 @@ The above image shows the calculated average of the users playlist
 
 
 ![Screenshot (13)](https://github.com/user-attachments/assets/aba80c47-f678-41fb-ab60-6c6cab83936c)
-Code of screen 1
+Code of screen 1 Arrays and variables declaered.
 
 
 
@@ -33,7 +33,7 @@ Code of screen 1
 
 
 ![Screenshot (16)](https://github.com/user-attachments/assets/f8b58598-1cf7-4609-a472-1e9729fccef8)
-Code of screen 2
+Code of screen 2 Buttons to display playlist and calculating the average
 
 
 
