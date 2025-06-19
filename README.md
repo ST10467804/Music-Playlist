@@ -32,7 +32,7 @@ Code of screen 1
 
 
 
-![Screenshot (15)](https://github.com/user-attachments/assets/5ea6c653-bc02-411c-b614-61deb561a0c4)
+![Screenshot (16)](https://github.com/user-attachments/assets/f8b58598-1cf7-4609-a472-1e9729fccef8)
 Code of screen 2
 
 
