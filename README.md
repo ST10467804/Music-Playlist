@@ -1,5 +1,7 @@
 "# Music-Playlist"
 
+ST10467804 - Prenesan Naidoo
+
 https://github.com/ST10467804/Music-Playlist
 
 The Music player aplication desinged by the team and I was made to allow users to store song details and allow users to manage and create playlists. The application use kotlin code in android studios in order to achive the desired out come. The application is made up of two screens. The first Screen allows for users to enter a songs Title,artist,ratings and personal comments. There is then 3 respective buttons. One allows you to add the users input to the playlist, the other takes you to the display screen and the 3rd exits the application. On the second screen users can display there playlist, display the average ratings between their songs or return to the previous screen.
